@@ -1,0 +1,14 @@
+{
+  "name": "belajar-back-end-dengan-javascript",
+  "version": "1.0.0",
+  "description": "back-end dicoding",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sehan AF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
