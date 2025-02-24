@@ -1,6 +1,6 @@
 # Node Package Manager (NPM) Documentation 📦
 
-## Table of Contents 📑
+## Table of Contents 
 - [Node Package Manager (NPM) Documentation 📦](#node-package-manager-npm-documentation-)
   - [Table of Contents 📑](#table-of-contents-)
   - [Introduction to NPM 🚀](#introduction-to-npm-)
